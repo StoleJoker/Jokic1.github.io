@@ -1,0 +1,338 @@
+[
+    {
+        "id" : 1,
+        "name" : "Adidas Hoodies",
+        "price" :{
+            "old" : 49.99,
+            "new": 29.99
+        },
+        "img" : {
+            "src" : "images/product/adidasDuks.jpg",
+            "alt" : "Adidas hoodies"
+        },
+        "description" : "Adidas black hooded sweatshirt, 100% cotton, size M, L, XL.",
+        "idCat" : 2,
+        "idBrand" : 1,
+        "stars" : 3
+    },
+    {
+        "id" : 2,
+        "name" : "Adidas CL FINALE 2018.",
+        "price" :{
+            "old" : 49.99,
+            "new": 39.99
+        },
+        "img" : {
+            "src" : "images/product/adidasLopta.jpg",
+            "alt" : "Adidas Balls"
+        },
+        "description" : "UEFA Champions League soccer ball. A class.",
+        "idCat" : 4,
+        "idBrand" : 1,
+        "stars" : 5
+    },
+    {
+        "id" : 3,
+        "name" : "Adidas sports bottle",
+        "price" :{
+            "old" : 15.99,
+            "new": 5.99
+        },
+        "img" : {
+            "src" : "images/product/adidasFlasica.jpg",
+            "alt" : "Adidas bottle"
+        },
+        "description" : "Adidas sports water bottle, protein, creatine, shake.",
+        "idCat" : 6,
+        "idBrand" : 1,
+        "stars" : 1
+    },
+    {
+        "id" : 4,
+        "name" : "Nike set",
+        "price" :{
+            "old" : 89.99,
+            "new": 69.99
+        },
+        "img" : {
+            "src" : "images/product/nike.jfif",
+            "alt" : "Nike set"
+        },
+        "description" : "Nike men's set, upper and lower part of the tracksuit.",
+        "idCat" : 1,
+        "idBrand" : 2,
+        "stars" : 2
+    },
+    {
+        "id" : 5,
+        "name" : "Nike Flyease Go",
+        "price" :{
+            "old" : 149.99,
+            "new": 116.99
+        },
+        "img" : {
+            "src" : "images/product/nikePatike.png",
+            "alt" : "Nike sneakers"
+        },
+        "description" : "NEW MODEL Nike Flyease go sneakers, clean canvas, without tying shoelaces.",
+        "idCat" : 5,
+        "idBrand" : 2,
+        "stars" : 5
+    },
+    {
+        "id" : 6,
+        "name" : "Nike T-shirt on the collar",
+        "price" :{
+            "old" : 29.99,
+            "new": 19.99
+        },
+        "img" : {
+            "src" : "images/product/nikeKragna.jpg",
+            "alt" : "Nike t-shirt"
+        },
+        "description" : "T-shirt on the collar, 100% cotton. Sizes S, M, XXL.",
+        "idCat" : 3,
+        "idBrand" : 2,
+        "stars" : 1
+    },
+    {
+        "id" : 7,
+        "name" : "Nike woman set",
+        "price" :{
+            "old" : 69.99,
+            "new": 56.99
+        },
+        "img" : {
+            "src" : "images/product/nike/nike3.jpg",
+            "alt" : "Nike woman sat"
+        },
+        "description" : "Women's Nike set, narrow at the waist, beautiful and elegant.",
+        "idCat" : 1,
+        "idBrand" : 2,
+        "stars" : 2
+    },
+    {
+        "id" : 8,
+        "name" : "Nike basketball ball",
+        "price" :{
+            "old" : 25.99,
+            "new": 19.99
+        },
+        "img" : {
+            "src" : "images/product/nike/nikeLopta.jpg",
+            "alt" : "Nike basketball ball"
+        },
+        "description" : "Nike 'Jordan' basketball ball, Size 7.",
+        "idCat" : 4,
+        "idBrand" : 2,
+        "stars" : 5
+    },
+    {
+        "id" : 9,
+        "name" : "Nike woman sneakers",
+        "price" :{
+            "old" : 67.99,
+            "new": 59.99
+        },
+        "img" : {
+            "src" : "images/product/nike/nikePatike2.jfif",
+            "alt" : "Nike woman sneakers"
+        },
+        "description" : "Women's Nike AIR 4 running shoes",
+        "idCat" : 5,
+        "idBrand" : 2,
+        "stars" : 4
+    },
+    {
+        "id" : 10,
+        "name" : "Nike man set",
+        "price" :{
+            "old" : 103.99,
+            "new": 89.99
+        },
+        "img" : {
+            "src" : "images/product/nike/nike1.jfif",
+            "alt" : "Nike man set"
+        },
+        "description" : "Men's wind Nike set, available in all colors and sizes.",
+        "idCat" : 1,
+        "idBrand" : 2,
+        "stars" : 2
+    },
+    {
+        "id" : 11,
+        "name" : "Adidas woman set",
+        "price" :{
+            "old" : 70.99,
+            "new": 49.99
+        },
+        "img" : {
+            "src" : "images/product/adidas/adidas4.jpg",
+            "alt" : "Adidas woman set"
+        },
+        "description" : "Women's Adidas running tracksuit set.",
+        "idCat" : 1,
+        "idBrand" : 1,
+        "stars" : 3
+    },
+    {
+        "id" : 12,
+        "name" : "Adidas man sneakers",
+        "price" :{
+            "old" : 38.99,
+            "new": 19.99
+        },
+        "img" : {
+            "src" : "images/product/adidas/adidasPatike2.jfif",
+            "alt" : "Adidas man sneakers"
+        },
+        "description" : "Men's Adidas sneakers for handball and sports on the floor.",
+        "idCat" : 5,
+        "idBrand" : 1,
+        "stars" : 2
+    },
+    {
+        "id" : 13,
+        "name" : "Adidas man set",
+        "price" :{
+            "old" : 76.99,
+            "new": 69.99
+        },
+        "img" : {
+            "src" : "images/product/adidas/adidas1.jfif",
+            "alt" : "Adidas man set"
+        },
+        "description" : "Men's Adidas walking tracksuit set.",
+        "idCat" : 1,
+        "idBrand" : 1,
+        "stars" : 3
+    },
+    {
+        "id" : 14,
+        "name" : "Adidas woman sneakers",
+        "price" :{
+            "old" : 44.99,
+            "new": 39.99
+        },
+        "img" : {
+            "src" : "images/product/adidas/adidasPatike3.jpg",
+            "alt" : "Adidas woman sneakers"
+        },
+        "description" : "Women's Adidas SUPERSTAR sneakers for every combination.",
+        "idCat" : 5,
+        "idBrand" : 1,
+        "stars" : 5
+    },
+    {
+        "id" : 15,
+        "name" : "Nike woman T-shirt",
+        "price" :{
+            "old" : 13.99,
+            "new": 9.99
+        },
+        "img" : {
+            "src" : "images/product/nike/nikeMajica.jpg",
+            "alt" : "Nike woman T-shirt"
+        },
+        "description" : "Women's Nike sports training shirt,100%.",
+        "idCat" : 3,
+        "idBrand" : 2,
+        "stars" : 2
+    },
+    {
+        "id" : 16,
+        "name" : "Nike man set",
+        "price" :{
+            "old" : 70.99,
+            "new": 59.99
+        },
+        "img" : {
+            "src" : "images/product/nike/nike2.jfif",
+            "alt" : "Nike man set"
+        },
+        "description" : "Men's Nike kit for every occasion.",
+        "idCat" : 1,
+        "idBrand" : 2,
+        "stars" : 4
+    },
+    {
+        "id" : 17,
+        "name" : "Nike woman set",
+        "price" :{
+            "old" : 43.99,
+            "new": 39.99
+        },
+        "img" : {
+            "src" : "images/product/nike/nike4.jfif",
+            "alt" : "Nike woman set"
+        },
+        "description" : "Women's Nike running tracksuit set.",
+        "idCat" : 1,
+        "idBrand" : 2,
+        "stars" : 3
+    },
+    {
+        "id" : 18,
+        "name" : "Adidas woman sneakers",
+        "price" :{
+            "old" : 23.99,
+            "new": 19.99
+        },
+        "img" : {
+            "src" : "images/product/adidas/adidasPatike4.jpg",
+            "alt" : "Adidas woman sneakers"
+        },
+        "description" : "Women's Adidas sneakers for handball and volleyball.",
+        "idCat" : 5,
+        "idBrand" : 1,
+        "stars" : 5
+    },
+    {
+        "id" : 19,
+        "name" : "Adidas woman set",
+        "price" :{
+            "old" : 69.99,
+            "new": 49.99
+        },
+        "img" : {
+            "src" : "images/product/adidas/adidas3.jpg",
+            "alt" : "Adidas woman set"
+        },
+        "description" : "Women's Adidas trainer kit.",
+        "idCat" : 1,
+        "idBrand" : 1,
+        "stars" : 2
+    },
+    {
+        "id" : 20,
+        "name" : "Adidas man set",
+        "price" :{
+            "old" : 57.99,
+            "new": 49.99
+        },
+        "img" : {
+            "src" : "images/product/adidas/adidas2.jpg",
+            "alt" : "Adidas 2man set"
+        },
+        "description" : "Men's Adidas trainer kit.",
+        "idCat" : 1,
+        "idBrand" : 1,
+        "stars" : 4
+    },
+    {
+        "id" : 21,
+        "name" : "Adidas man sneakers",
+        "price" :{
+            "old" : 47.99,
+            "new": 33.99
+        },
+        "img" : {
+            "src" : "images/product/adidas/adidasPatike1.jpg",
+            "alt" : "Adidas man sneakers"
+        },
+        "description" : "Universal Adidas sneakers for walking and running.",
+        "idCat" : 5,
+        "idBrand" : 1,
+        "stars" : 3
+    }
+]

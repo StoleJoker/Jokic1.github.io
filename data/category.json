@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "nameCat" : "Set"
+    },
+    {
+        "id" : 2,
+        "nameCat" : "Hoodies"
+    },
+    {
+        "id" : 3,
+        "nameCat" : "T-shirt"
+    },
+    {
+        "id" : 4,
+        "nameCat" : "Balls"
+    },
+    {
+        "id" : 5,
+        "nameCat" : "Sneakers"
+    },
+    {
+        "id" : 6,
+        "nameCat" : "Bottle"
+    }
+]
